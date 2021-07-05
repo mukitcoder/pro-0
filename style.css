@@ -28,10 +28,13 @@ p{
     padding: 10px 40px;
     border-radius: 5px;
     background-image: linear-gradient(50deg, lightsalmon, tomato);
-    color: white;
+    color: whitesmoke;
     font-weight: 700;
-
 }
+a:hover {
+    background-image: linear-gradient(50deg, #00bfff, #0080ff);
+  }
+
 .top-banner{
 
     background-image: url(images/top-banner.png);
